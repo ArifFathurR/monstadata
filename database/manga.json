@@ -1,0 +1,43 @@
+// manga.json V3.9 Rev 0
+{
+  "manga_id": "dragonslayer-peerless-regression-001",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "The Peerless Dragon Slayer's Regression",
+  "status": "Ongoing",
+  "author": "Bae Sang-Hun",
+  "artist": "Studio L&C",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Regression",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Sebagai manusia terakhir yang bertahan hidup, ia berhasil menebas kepala sang Kaisar Naga, namun nyawanya tak tertolong akibat racun naga. Di ambang kematian, sebuah keajaiban terjadi. Ia kembali ke masa lalu dengan ingatan dan kemampuan bertarung di kehidupan sebelumnya. Kini, sang pembunuh naga tak tertandingi memulai kembali perjalanannya untuk mengubah takdir dunia.",
+  "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/cover.webp",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "The Fall of the Dragon Emperor",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch01/001.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch01/002.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch01/003.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch01/004.webp"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "A Familiar Past",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch02/001.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch02/002.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch02/003.webp",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch02/004.webp"
+      ]
+    }
+  ]
+}
