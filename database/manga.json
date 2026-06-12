@@ -1,11 +1,10 @@
-// manga.json V3.9 Rev 0
 {
-  "manga_id": "dragonslayer-peerless-regression-001",
+  "manga_id": "a-dragonslayers-peerless-regression",
   "title": "A Dragonslayer’s Peerless Regression",
-  "alternative_title": "The Peerless Dragon Slayer's Regression",
+  "alternative_title": "The Dragonslayer's Regression is Too Perfect / 용살자의 회귀가 너무 완벽하다",
   "status": "Ongoing",
-  "author": "Bae Sang-Hun",
-  "artist": "Studio L&C",
+  "author": "Kim Do-woo",
+  "artist": "Studio JMT",
   "genres": [
     "Action",
     "Adventure",
@@ -14,29 +13,31 @@
     "Shounen"
   ],
   "type": "Manhwa",
-  "release_year": 2024,
-  "rating": 4.8,
-  "synopsis": "Sebagai manusia terakhir yang bertahan hidup, ia berhasil menebas kepala sang Kaisar Naga, namun nyawanya tak tertolong akibat racun naga. Di ambang kematian, sebuah keajaiban terjadi. Ia kembali ke masa lalu dengan ingatan dan kemampuan bertarung di kehidupan sebelumnya. Kini, sang pembunuh naga tak tertandingi memulai kembali perjalanannya untuk mengubah takdir dunia.",
-  "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/cover.webp",
+  "release_year": 2023,
+  "rating": "4.8",
+  "synopsis": "Slayer naga terkuat, Siegfried, gugur dalam pertempuran final melawan Naga Kiamat. Namun, alih-alih pergi ke akhirat, dia terbangun kembali di masa lalu sebagai seorang taruna akademi militer yang lemah. Dengan ingatan masa depan dan pengetahuan taktik berburu naga, Siegfried bertekad untuk melatih tubuhnya kembali ke puncak demi mencegah kehancuran dunia yang pernah dia saksikan.",
+  "cover_url": "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/cover.jpg",
   "chapters": [
     {
-      "chapter_number": 1,
-      "chapter_title": "The Fall of the Dragon Emperor",
+      "chapter_number": "1",
+      "chapter_title": "Kembalinya Sang Legenda",
       "images": [
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch01/001.webp",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch01/002.webp",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch01/003.webp",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch01/004.webp"
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-1/001.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-1/002.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-1/003.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-1/004.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-1/005.jpg"
       ]
     },
     {
-      "chapter_number": 2,
-      "chapter_title": "A Familiar Past",
+      "chapter_number": "2",
+      "chapter_title": "Ujian Akademi Militer",
       "images": [
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch02/001.webp",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch02/002.webp",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch02/003.webp",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch02/004.webp"
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-2/001.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-2/002.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-2/003.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-2/004.jpg",
+        "https://raw.githubusercontent.com/monstacomic-storage/assets/main/manga/a-dragonslayers-peerless-regression/ch-2/005.jpg"
       ]
     }
   ]
